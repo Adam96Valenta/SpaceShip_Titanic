@@ -11,3 +11,14 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 Help save them and change history!
 
 The data are from [Kaggle.com](https://www.kaggle.com/competitions/spaceship-titanic/overview)
+
+**The goal was to predict who passenger was transported to an alternate dimension when Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud and who not.**
+
+**Workflow:**
+* Loading and checking data
+* Exploratory data analysis (EDA)
+* Filling missing Values
+* Feature engineering
+* Training models
+
+Libraries: Pandas, NumPy, Seaborn / Matplotlib, Scikit-learn
